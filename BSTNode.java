@@ -2,8 +2,8 @@ public class BSTNode<T> {
 
     T patient;
 
-    BSTNode left;
-    BSTNode right;
+    BSTNode<T> left;
+    BSTNode<T> right;
 
     public BSTNode(T patient) {
 
