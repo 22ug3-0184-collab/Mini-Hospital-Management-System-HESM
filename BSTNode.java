@@ -1,14 +1,4 @@
-public class BSTNode<T> {
-
-    T patient;
-
-    BSTNode<T> left;
-    BSTNode<T> right;
-
-    public BSTNode(T patient) {
-
-        this.patient = patient;
-        this.left = null;
-        this.right = null;
-    }
+public class BSTNode {
+    Patient patient; BSTNode left,right;
+    public BSTNode(Patient patient){this.patient=patient;left=null;right=null;}
 }

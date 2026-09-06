@@ -97,6 +97,7 @@ MiniHospitalSystem/
 ├── TreatmentStack.java
 ├── MiniHospitalSystem.java
 └── README.md
+
 How to Run
 Open the project in Visual Studio Code.
 Make sure Java JDK is installed.
